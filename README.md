@@ -3,9 +3,14 @@
 - 🌱 I’m currently learning `Golang` and `React Native`
 - 📫 How to reach me: simoonf@vip.qq.com
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simoon-F&layout=compact&langs_count=8" />
+<div style="position: relative;right: 0;">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simoon-F&layout=compact&langs_count=8" />
+</div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Simoon-F&show_icons=true" />
+<div style="position: relative;right: 0;">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Simoon-F&show_icons=true" />
+</div>
+
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
