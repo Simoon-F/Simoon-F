@@ -3,9 +3,6 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simoon-F&layout=compact&langs_count=8" /> -->
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-
 ### Hi there 👋
 
 - 🌱 I’m currently learning `Golang` and `React Native`
@@ -26,3 +23,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![](./profile-3d-contrib/profile-green-animate.svg)
