@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍💻 I’m a full stack `Web` developer 🇨🇳
-- 🌱 I’m currently learning `Python(PyTorch)`
+- 🌱 I’m currently learning knowledge in the field of communication.
 - 📫 How to reach me: simoonf@vip.qq.com
 
 <br />
