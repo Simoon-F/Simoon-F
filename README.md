@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 - 👨‍💻 I’m a full stack `Web` developer 🇨🇳
@@ -5,6 +6,7 @@
 - 📫 How to reach me: simoonf@vip.qq.com
 
 <br />
+-->
 
 <div align="center"> 
 <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simoon-F&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Rick Staa's Language stats" />
@@ -12,8 +14,9 @@
 </div>
     
 <br />
-
+<!--
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+-->
 
 <!--
 **Simoon-F/Simoon-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
